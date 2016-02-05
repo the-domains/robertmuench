@@ -1,7 +1,7 @@
 name: robertmuench
 favicon: null
-layout_spectrum: 0.04145066300407052
-typography_spectrum: 0.3981988348532468
+layout_spectrum: 0.94448
+typography_spectrum: 0.4019
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.19881101767532527
-  lightness: 0.907000269042328
-  saturation: 0.6240429864265025
-  rhythmicContrast: 0.31198489875532687
+    - '#ffffff'
+    - '#d9d7be'
+    - '#9c876b'
+    - '#1b2022'
+    - '#803233'
+  brandStrength: 1
+  lightness: 0.5625
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
