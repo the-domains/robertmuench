@@ -3,11 +3,11 @@ inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-06T14:29:15.951Z'
-dateModified: '2016-02-06T14:29:07.366Z'
+datePublished: '2016-02-06T14:30:22.210Z'
+dateModified: '2016-02-06T14:30:18.505Z'
 title: Creating cool stuff...
 author: []
 sourcePath: _posts/2016-02-05-creating-cool-stuff.md
