@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-06T14:38:44.616Z'
-dateModified: '2016-02-06T14:38:40.971Z'
+description: 'Simplicity is key to success, elegance and effectiveness.'
+datePublished: '2016-02-06T14:41:08.302Z'
+dateModified: '2016-02-06T14:41:06.562Z'
 title: Creating cool stuff...
 author: []
 sourcePath: _posts/2016-02-05-creating-cool-stuff.md
@@ -28,6 +28,4 @@ I like software development (but mostly pay others to do it).
 I'm interested in a bunch of other things (surprised?).
 
 I think out of the box. Trying to keep things simple. Always!
-
-**Simplicity is key to success, elegance and effectiveness.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30312668-7bdd-4909-bb1d-398735f262b7.png)
