@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-06T14:53:15.525Z'
-dateModified: '2016-02-06T14:53:10.306Z'
+datePublished: '2016-02-06T15:14:14.724Z'
+dateModified: '2016-02-06T15:13:18.863Z'
 title: Projektübersicht (DE)
 author: []
 sourcePath: _posts/2016-02-06-projektubersicht-de.md
