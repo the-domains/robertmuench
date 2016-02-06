@@ -1,28 +1,27 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-05T21:05:03.550Z'
-dateModified: '2016-02-05T21:04:12.796Z'
+datePublished: '2016-02-06T14:29:15.951Z'
+dateModified: '2016-02-06T14:29:07.366Z'
 title: Creating cool stuff...
 author: []
+sourcePath: _posts/2016-02-05-creating-cool-stuff.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-05-creating-cool-stuff.md
-published: true
-url: creating-cool-stuff/index.html
-_type: Article
+_type: Blurb
 
 ---
-Who is behind this website?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93ba2b63-0e76-4fd4-9561-b26bf5662813.jpg)
 
 I'm working as a management consultant (sometimes these days).
 
