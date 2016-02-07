@@ -1,6 +1,6 @@
 name: robertmuench
 favicon: null
-layout_spectrum: 0.65824
+layout_spectrum: 0.39544
 typography_spectrum: 0.4019
 title: Creating cool stuff...
 cta:
@@ -22,7 +22,7 @@ color:
     - '#9c876b'
     - '#1b2022'
     - '#803233'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0.5625
   saturation: 0.3125
   rhythmicContrast: 0.75
