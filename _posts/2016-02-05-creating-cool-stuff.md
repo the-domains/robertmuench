@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: 'Simplicity is key to success, elegance and effectiveness.'
-datePublished: '2016-02-26T21:42:02.870Z'
-dateModified: '2016-02-26T21:40:47.810Z'
+description: "I'm the CEO of Saphirion AG and inventor of NLPP."
+datePublished: '2016-04-16T14:21:16.404Z'
+dateModified: '2016-04-16T14:21:16.026Z'
 title: Creating cool stuff...
 author: []
 sourcePath: _posts/2016-02-05-creating-cool-stuff.md
