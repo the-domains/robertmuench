@@ -1,20 +1,4 @@
-name: robertmuench
-favicon: null
-layout_spectrum: 0.39544
 typography_spectrum: 0.4019
-title: Creating cool stuff...
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,23 @@ color:
   lightness: 0.5625
   saturation: 0.3125
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.39544
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Robert M. Münch
+  email: robert.muench@robertmuench.ch
+name: robertmuench
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Creating cool stuff...
 purpose: []
