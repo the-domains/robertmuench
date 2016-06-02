@@ -7,12 +7,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I'm the CEO of Saphirion AG and inventor of NLPP."
-datePublished: '2016-04-16T14:21:16.404Z'
-dateModified: '2016-04-16T14:21:16.026Z'
+datePublished: '2016-06-02T15:44:11.494Z'
+dateModified: '2016-04-16T14:22:21.040Z'
 title: Creating cool stuff...
 author: []
 sourcePath: _posts/2016-02-05-creating-cool-stuff.md
-published: true
 authors: []
 publisher:
   name: null
