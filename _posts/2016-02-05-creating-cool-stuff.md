@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T09:07:13.284Z'
+datePublished: '2016-08-19T09:07:16.308Z'
 sourcePath: _posts/2016-02-05-creating-cool-stuff.md
 inFeed: true
 isBasedOnUrl: null
@@ -7,14 +7,14 @@ authors: []
 hasPage: false
 keywords: []
 author: []
-dateModified: '2016-08-19T09:07:12.853Z'
+dateModified: '2016-08-19T09:07:15.917Z'
 title: ''
 publisher: {}
 description: I'm the CEO of Saphirion AG and inventor of NLPP.
 inLanguage: null
 inNav: false
 via: {}
-starred: true
+starred: false
 _type: Blurb
 
 ---
