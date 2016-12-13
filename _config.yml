@@ -1,4 +1,4 @@
-typography_spectrum: 0.4019
+typography_spectrum: 0.6684555895796211
 color:
   brandColors:
     - '#ffffff'
@@ -6,15 +6,16 @@ color:
     - '#9c876b'
     - '#1b2022'
     - '#803233'
-  brandStrength: 0.6875
-  lightness: 0.5625
-  saturation: 0.3125
-  rhythmicContrast: 1
+  brandStrength: 0.866453873391383
+  lightness: 0.9154762782183209
+  saturation: 0.659285319114731
+  rhythmicContrast: 0.7961600527352664
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.39544
+layout_spectrum: 0.8795816562874335
 analytics:
   google: null
   facebook: null
@@ -27,6 +28,12 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Projekte
+    id: a445c554-1044-40c0-883b-5bf05e972b92
+    type: content
 favicon: null
 title: Creating cool stuff...
+content: []
+description: while thinking out of the box.
 purpose: []
