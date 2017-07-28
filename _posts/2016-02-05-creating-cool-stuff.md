@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-07-28T16:59:13.697Z'
+datePublished: '2017-07-28T17:06:43.321Z'
 sourcePath: _posts/2016-02-05-creating-cool-stuff.md
 inFeed: true
 isBasedOnUrl: null
@@ -7,7 +7,7 @@ authors: []
 hasPage: false
 keywords: []
 author: []
-dateModified: '2017-07-28T16:59:12.759Z'
+dateModified: '2017-07-28T17:06:42.640Z'
 title: About Me
 publisher: {}
 description: I'm the CEO of Saphirion AG and inventor of NLPP.
@@ -24,11 +24,19 @@ _type: Blurb
 
 I'm the CEO of [Saphirion AG][0] and inventor of [NLPP][1].
 
+---
+
 I have been working 15 years as a management consultant and interims manager (only doing it sometimes these days).
+
+---
 
 I like software development (but mostly pay others to do it).
 
+---
+
 I'm interested in a bunch of other things (who is not?).
+
+---
 
 I think out of the box. Trying to keep things simple. Always!
 
