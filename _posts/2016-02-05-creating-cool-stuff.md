@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-07-28T16:37:04.032Z'
+datePublished: '2017-07-28T16:50:35.984Z'
 sourcePath: _posts/2016-02-05-creating-cool-stuff.md
 inFeed: true
 isBasedOnUrl: null
@@ -7,8 +7,8 @@ authors: []
 hasPage: false
 keywords: []
 author: []
-dateModified: '2017-07-28T16:36:58.198Z'
-title: Creating Cool Stuff...
+dateModified: '2017-07-28T16:50:35.084Z'
+title: About Me
 publisher: {}
 description: I'm the CEO of Saphirion AG and inventor of NLPP.
 inLanguage: null
@@ -19,6 +19,8 @@ _type: Blurb
 
 ---
 ![This is my personal web-site where I share stuff not related to my company.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f325cfc8f1ec74ae99dbc0c81b648297e7c0f62.png)
+
+# About Me
 
 I'm the CEO of [Saphirion AG][0] and inventor of [NLPP][1].
 
