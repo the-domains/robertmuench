@@ -60,4 +60,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: while thinking out of the box.
-purpose: []
+purpose:
+  - type: internal
+    label: About Me
+    item: f6407f71-3aca-413f-8e21-492cd9f6299c
